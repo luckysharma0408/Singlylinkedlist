@@ -2,7 +2,7 @@ package main;
 
 public class SinglyLinkedList {
 
-    public static void main(String[] args) {
+    private class Node{
 
 
 
